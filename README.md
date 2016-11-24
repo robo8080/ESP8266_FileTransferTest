@@ -1,2 +1,3 @@
 # ESP8266_FileTransferTest
 ファイル転送のテスト
+スケッチのssidとpasswordは自分の環境に合わせて書き換えてください。
